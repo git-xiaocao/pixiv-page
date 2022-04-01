@@ -2,6 +2,11 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiao-cao-x&repo=pixiv_func_mobile&theme=omni)](https://github.com/xiao-cao-x/pixiv_func_mobile)
 
+[![最新版本](https://img.shields.io/github/release/xiao-cao-x/pixiv_func_mobile?label=latest%20release)](https://github.com/xiao-cao-x/pixiv_func_mobile/releases/latest)
+
+<h3>免代理直连不需要梯子也可以看P站</h3>
+<br/>
+
 # 软件下载
 
 #### 方法1 
@@ -36,6 +41,12 @@
 7. `收藏按钮(♥图标)`和关注用户按钮长按可以选择`悄悄收藏`或者`公开收藏`,单击是`公开收藏`
 8. `评论页面`长按一条评论可以`回复`,点左下角的`返回箭头图标`可以返回到`评论插画`,默认是评论插画
 9. `评论页面`评论后面有个`半截省略号(…)`的,可以点一下加载评论的回复
+
+# 注意事项
+
+1. 本地反向代理绑定`12345`端口注意不要占用
+2. 不能直连与地区和运营商有关
+
 # 常见问题
 
 ## 不能登录/注册
