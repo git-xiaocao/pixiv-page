@@ -1,6 +1,6 @@
 # 储存库
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiao-cao-x&repo=pixiv-kotlin-api&theme=omni)](https://github.com/xiao-cao-x/pixiv-kotlin-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=git-xiaocao&repo=pixiv-kotlin-api&theme=omni)](https://github.com/git-xiaocao/pixiv-kotlin-api)
 
 ## 特点
 

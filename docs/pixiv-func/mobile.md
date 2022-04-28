@@ -1,8 +1,9 @@
 # 储存库
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiao-cao-x&repo=pixiv_func_mobile&theme=omni)](https://github.com/xiao-cao-x/pixiv_func_mobile)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=git-xiaocao&repo=pixiv_func_mobile&theme=omni)](https://github.com/git-xiaocao/pixiv_func_mobile)
 
-[![最新版本](https://img.shields.io/github/release/xiao-cao-x/pixiv_func_mobile?label=latest%20release)](https://github.com/xiao-cao-x/pixiv_func_mobile/releases/latest)
+[![最新版本](https://img.shields.io/github/release/git-xiaocao/pixiv_func_mobile?label=latest%20release)](https://github.com/git-xiaocao/pixiv_func_mobile/releases/latest)
+![total downloads](https://img.shields.io/github/downloads/git-xiaocao/pixiv_func_mobile/total.svg?label=total%20downloads)
 
 <h3>免代理直连不需要梯子也可以看P站</h3>
 <br/>
@@ -10,12 +11,12 @@
 # 软件下载
 
 #### 方法1 
-前往 [GitHub Release](https://github.com/xiao-cao-x/pixiv_func_mobile/releases)
+前往 [GitHub Release](https://github.com/git-xiaocao/pixiv_func_mobile/releases)
 
 #### 方法2
 点击下载
-- [直接从GitHub下载(开了梯子用这个)](https://github.com/xiao-cao-x/pixiv_func_mobile/releases/latest/download/app-release.apk)
-- [通过镜像站下载(国内或者没有梯子用这个)](https://ghproxy.com/https://github.com/xiao-cao-x/pixiv_func_mobile/releases/latest/download/app-release.apk)
+- [直接从GitHub下载(开了梯子用这个)](https://github.com/git-xiaocao/pixiv_func_mobile/releases/latest/download/app-release.apk)
+- [通过镜像站下载(国内或者没有梯子用这个)](https://ghproxy.com/https://github.com/git-xiaocao/pixiv_func_mobile/releases/latest/download/app-release.apk)
 
 # 预览
 

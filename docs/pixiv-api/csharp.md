@@ -1,9 +1,7 @@
 # 储存库
 
-<a href="https://github.com/xiao-cao-x/pixiv-csharp-api" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiao-cao-x&repo=pixiv-csharp-api&theme=omni" 
-        alt="pixiv-csharp-api">
-</a>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=git-xiaocao&repo=pixiv-csharp-api&theme=omni)](https://github.com/git-xiaocao/https://github.com/git-xiaocao/pixiv-csharp-api)
+
 
 ## 特点
 

@@ -1,6 +1,6 @@
 # 储存库
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiao-cao-x&repo=pixiv_dart_api&theme=omni)](https://github.com/xiao-cao-x/pixiv_dart_api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=git-xiaocao&repo=pixiv_dart_api&theme=omni)](https://github.com/git-xiaocao/pixiv_dart_api)
 
 [Pub地址](https://pub.dev/packages/pixiv_dart_api)
 
@@ -242,4 +242,4 @@ Feture<void> fetch() {
 }
 ```
 
-参考 [Pixiv Func Mobile](https://github.com/xiao-cao-x/pixiv_func_mobile/blob/main/lib/pages/login/controller.dart#L30) 项目  
+参考 [Pixiv Func Mobile](https://github.com/git-xiaocao/pixiv_func_mobile/blob/main/lib/pages/login/controller.dart#L30) 项目  
