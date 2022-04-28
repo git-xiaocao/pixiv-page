@@ -230,7 +230,7 @@ void initState() {
 ```
 
 ```dart
-Feture<void> fetch() {
+Feture<void> fetch() async {
   final ApiClient api = Get.find();
   //获取第一页
   final result = await api.getRecommendedIllusts(IllustType.illust);
